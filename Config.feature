@@ -7,9 +7,7 @@
             Para depois inserir no carrinho
 
             Esquema do Cenário: Seleção de cor, tamanho e quantidade
-            Quando eu clicar no botão <cor>
-            E <tamanho>
-            E <quantidade>
+            Quando eu clicar no botão cor, tamanho, quantidade
             Então o sistema permitirá acrecentar o produto no carrinho
 
             Exemplos:
